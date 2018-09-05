@@ -1,0 +1,565 @@
+Fund-AU	DESCRIPTION
+100-100001         	General Fund Level            
+100-101110         	County Commissioners          
+100-102110         	Clerk to the Board            
+100-105002         	County Administration         
+100-105010         	County Admin-MWBE             
+100-105110         	Reserve for Contingency       
+100-105210         	Intergovernmental Services    
+100-110110         	County Attorney               
+100-110210         	Law Library                   
+100-115002         	HR Administration             
+100-115110         	HR - Awards Banquet           
+100-115210         	HR - Other                    
+100-120110         	Budget and Management         
+100-125110         	Internal Audit                
+100-125120         	IA Energy Fellowship Grant    
+100-130110         	Finance                       
+100-135002         	Purchasing Administration     
+100-135010         	Purchasing Admin-MWBE         
+100-135110         	Purchasing Property and Other 
+100-140002         	Informatn Srvs Administration 
+100-140110         	IS Computer Services          
+100-140115         	IS Program Management         
+100-140210         	IS Client Services            
+100-140310         	IS Technical Support Services 
+100-140410         	IS Application Software Servs 
+100-140510         	IS Telecommunications         
+100-145110         	Tax - Greensboro              
+100-145210         	Tax - High Point              
+100-150110         	ROD - Greensboro              
+100-150210         	ROD - High Point              
+100-150510         	Automation Enhance & Preservtn
+100-155002         	Elections Administration      
+100-155110         	Elections - Other             
+100-155210         	Elections - Training          
+100-160002         	P&D Administration            
+100-160110         	P&D - Planning/Zoning         
+100-160510         	P&D-Community Services        
+100-165002         	CED Administration            
+100-165110         	Community Initiatives         
+100-165210         	Community Services            
+100-165220         	CS - Paved Streets            
+100-165230         	CS - Lighting                 
+100-165240         	CS - Housing                  
+100-170001         	Geographic Information Systems
+100-175002         	Facilities Administration     
+100-175010         	Fac Admin - Central Supply    
+100-175110         	Fac Bldgs - Administrative    
+100-175120         	Fac Bldgs - Rental            
+100-175210         	Fac Op - Housekeeping/Grounds 
+100-175220         	Fac Op-Gen/Mechanicl Maint Shp
+100-175230         	Fac Op - Sign Shop            
+100-175240         	Fac Op - Prison Farm          
+100-175310         	Distribution Services         
+100-175410         	Parking                       
+100-175510         	Court Facility Fees           
+100-175520         	Non Court Facility Fees       
+100-175610         	Property Managment            
+100-180110         	Security                      
+100-185110         	Property Management           
+100-185120         	Parks                         
+100-185130         	Open Space                    
+100-185210         	Court Facility Fees           
+100-185220         	Non Court Facility Fees       
+100-185230         	Law Library                   
+100-186110         	Property Management           
+100-190110         	Fleet Operation               
+100-190210         	Parking Areas                 
+100-191110         	Fleet                         
+100-210002         	Human Resrcs-Fiscal-Technology
+100-210003         	Information Technology        
+100-210005         	RWJ Foundation                
+100-210105         	AIDS-Federal                  
+100-210110         	AIDS-State                    
+100-210111         	AIDS-Federal and State        
+100-210115         	Cardiovascular Prev WiseWoman 
+100-210120         	Case Management-Elderly       
+100-210125         	Case Management-Frail/Elderly 
+100-210130         	Child Abuse                   
+100-210135         	Child Abuse Prevention        
+100-210140         	Community Administration      
+100-210141         	U Way Univ Newborn Home Visit 
+100-210142         	NC Project Launch             
+100-210145         	Child Care Nursing            
+100-210146         	Child Care - NAP SACC         
+100-210150         	Child Care Nursing-Smart Start
+100-210155         	Child Fatality Prevention     
+100-210160         	Communicable Disease Education
+100-210165         	Communicable Disease Investgtn
+100-210170         	Community Alternatives Program
+100-210175         	Community Health Response Prog
+100-210180         	Community Nursing             
+100-210185         	Community Servs Coord-MedMax  
+100-210190         	Child Services Coordination   
+100-210191         	Care Coordination for Children
+100-210195         	Community Transitn Coordinator
+100-210200         	Dental Education-Smart Start  
+100-210201         	Dental Health - NCCF Donation 
+100-210205         	Dental Health-Adult Emerg Care
+100-210210         	Health Check                  
+100-210215         	Healthy Carolinians-A         
+100-210220         	Healthy Carolinians-B         
+100-210225         	HIV/STD Nontraditnl Test Sites
+100-210230         	Managemnt Support-Child Health
+100-210235         	Maternal Care Coordination    
+100-210240         	School Nursing                
+100-210245         	Smart Start Case Management   
+100-210246         	Duke Endowment                
+100-210250         	Statewide Health Promotion    
+100-210251         	Urban Oasis Grant             
+100-210252         	Mobile Oasis Farmers Mrkt Grt 
+100-210255         	Syphillis Elimination         
+100-210260         	Tobacco Prevention            
+100-210265         	Tobacco Preventn-College Proj 
+100-210270         	Tobacco Prevention-Youth Proj 
+100-210271         	YMCA-Pioneer Healthier Commun 
+100-210272         	Foundation Healthy High Pt Grt
+100-210275         	Triad Baby Love               
+100-210280         	Health Disparities            
+100-210281         	Community Transformation      
+100-210282         	Healthy Communities           
+100-210283         	NC AT&T Be Safe Grant         
+100-210285         	Prescription Drug Overdose    
+100-210305         	Adult Administration          
+100-210306         	Healthy Lifestyles Learning   
+100-210310         	Breast/Cervical Cancer Control
+100-210311         	Education-Vaccination Project 
+100-210315         	Cancer Control-MedMax         
+100-210320         	Clinical Services-MedMax      
+100-210325         	Communicable Disease TB Fed   
+100-210330         	Communicable Disease TB MedMax
+100-210335         	Communicable Disease TB State 
+100-210340         	Communicable Diseases-Clinic  
+100-210345         	Community Social Work         
+100-210350         	Primary Care                  
+100-210355         	Family Planning Clinic        
+100-210360         	Family Planning Clinic-MedMax 
+100-210365         	Family Planning-Administration
+100-210366         	Cone Health Foundation Grant  
+100-210370         	Guilford Adult Health         
+100-210371         	GAH-Adult Dental Clinic       
+100-210375         	Guilford Child Health         
+100-210380         	Guilf Child Health-Social Work
+100-210385         	High Risk Maternity Clinic    
+100-210390         	Hospital-Out Patient Services 
+100-210395         	Immunization Action Plan      
+100-210396         	Immunization - ARRA Funds     
+100-210400         	Immunization-Overseas Travel  
+100-210405         	Allied Administration         
+100-210406         	MH-Office of Rural Health     
+100-210410         	Maternity Clinic-MedMax       
+100-210415         	Maternity-Clinic              
+100-210416         	Pregnancy Care Management     
+100-210420         	Pregnancy Prevention          
+100-210421         	HHP Found-Young Adult Clinic  
+100-210425         	Prepared Child Birth          
+100-210426         	March of Dimes Grant          
+100-210430         	Refugee Clinic                
+100-210435         	Refugee Clinic-MedMax         
+100-210440         	Region Nurse Practitioner Prog
+100-210445         	STD Clinic                    
+100-210446         	Communicable Disease STD Drugs
+100-210447         	K-8 Resistant Gonorrhea       
+100-210448         	HIV/STD Online Courses        
+100-210450         	TB-Medical Services           
+100-210455         	Vasectomy                     
+100-210460         	Southeast Clinic              
+100-210465         	HIV/STD Preventin Training Ctr
+100-210505         	Environmental Health-Admin    
+100-210510         	Food & Lodging                
+100-210515         	Hazardous Response            
+100-210520         	Health Hazards                
+100-210525         	Lead-Federal                  
+100-210530         	Lead-HUD                      
+100-210531         	Lead HUD - High Point         
+100-210532         	Lead-HUD Gsbo Healthy Homes   
+100-210535         	Lead-State                    
+100-210540         	Mosquito Control              
+100-210545         	On-site Sewage/Water Supplies 
+100-210550         	Radon                         
+100-210555         	Water/Sewer Progm-Reserve Acct
+100-210605         	Dental-Children               
+100-210610         	Dental-Children-MedMax        
+100-210615         	Laboratory                    
+100-210620         	Medication Assistance Progm 1 
+100-210625         	Medication Assistance Progm 2 
+100-210626         	Diabetes Self Management      
+100-210630         	Pharmacy Services             
+100-210635         	WIC-Administration            
+100-210636         	WIC-Administration Special    
+100-210640         	WIC-Breastfeeding             
+100-210641         	WIC-Breastfeeding Special     
+100-210645         	WIC-Breastfding Peer Counselor
+100-210650         	WIC-Client Services           
+100-210651         	WIC-Client Services Special   
+100-210655         	WIC-Nutrition Education       
+100-210656         	WIC-Nutrition Educatn Special 
+100-210660         	WIC-Child Nutrition Therapy   
+100-210670         	Smart Girls Grant             
+100-210671         	YMCA Obesity Prevention Grant 
+100-210672         	Eat Smart Move More           
+100-210673         	North Carolina Smoke Free Law 
+100-210674         	RWJF Dental Grant             
+100-210675         	HIV/Syphilis Jail Screening   
+100-210676         	United Way Venture Grant      
+100-210690         	GC Nutritional Counseling Serv
+100-210705         	Epidemiology                  
+100-210710         	Local Response 1              
+100-210715         	Local Response 2              
+100-210720         	Local Response 3              
+100-210725         	PHRST-5 Regional Team         
+100-210726         	PHRST-5 Cities Readiness      
+100-210730         	Preventn-Communicable Disease 
+100-210735         	Vital Records                 
+100-210736         	Community Health Assessment   
+100-210740         	Citizens Corp Program         
+100-210750         	Influenza Pandemic Response   
+100-220002         	Area Administration           
+100-220005         	Sandhills Allocation          
+100-220010         	Managed Care Administration   
+100-220015         	Managed Care Coordination     
+100-220020         	Information Services          
+100-220030         	CFAC                          
+100-220040         	CenterPoint Contract          
+100-220050         	CenterPoint CAP               
+100-220060         	Pharmacy                      
+100-220105         	ADD - LifeSpan                
+100-220110         	ADD - Community-based Respite 
+100-220115         	ADD - ARC-HP                  
+100-220120         	ADD - Adult DD CM/Domiciliary 
+100-220125         	ADD - CAP MR/DD               
+100-220130         	ADD - RHA                     
+100-220135         	ADD - DD Wait List            
+100-220140         	ADD - UCP                     
+100-220145         	ADD - UCP/Copymatic           
+100-220150         	ADD - Thomas S Contracts      
+100-220205         	AMH - MD/DD Hearing Impaired  
+100-220210         	AMH - Adult Intensive/ACT     
+100-220215         	AMH - Community Support       
+100-220220         	AMH - Intake                  
+100-220225         	AMH - Inpatient               
+100-220230         	AMH - PsychoSocial            
+100-220235         	AMH - MHA-NC                  
+100-220240         	AMH - Restart                 
+100-220245         	AMH - Homeless Initiative     
+100-220250         	AMH - Mobile Crisis Mgmnt     
+100-220310         	ASA - Substance Abuse         
+100-220320         	ASA - ADS/Bottle tax          
+100-220330         	ASA - TANF                    
+100-220340         	ASA - Summit House            
+100-220350         	ASA - 5209 W Wendover Ave     
+100-220360         	AMH/ASA - Treatment Court     
+100-220410         	CDD - DD Child Active         
+100-220510         	CMH - STOP                    
+100-220520         	CMH - Judicial Grant          
+100-220530         	CMH - Medicaid                
+100-220540         	CMH - At-Risk Out-patient     
+100-220550         	CMH- At-Risk Residntl Contrcts
+100-220610         	CSA - MAJORS                  
+100-220620         	CSA - Youth Focus/ASAP        
+100-220705         	GC Substance Abuse Allocation 
+100-220710         	Wendover SA Facitlity         
+100-220720         	SA Detox & Facility Crisis    
+100-220730         	Greensboro Services - Monarch 
+100-220740         	High Point Services - RHA     
+100-220750         	Geriatric Svcs - Sr Resources 
+100-220760         	STOP Services - Barium Springs
+100-220810         	Psychiatric Clinic            
+100-220815         	General Support               
+100-220820         	Crisis/Emergency              
+100-220825         	Miscellaneous Services        
+100-220830         	Geriatric/Adult               
+100-220835         	MH Diversion                  
+100-220840         	Medical Records               
+100-220845         	Physician Services/Pharm      
+100-220850         	Thomas S Administration       
+100-220855         	Thomas S CM                   
+100-220860         	AMH - Intake                  
+100-220865         	CMH - STOP                    
+100-230002         	Agency General Administration 
+100-230010         	Medicaid Administration       
+100-230015         	TANF Emergency Assist Expenses
+100-230020         	Board Expenses                
+100-230025         	Adult Day Care SSBG Funded    
+100-230030         	Adult Services Personnel      
+100-230035         	Services Support Personnel    
+100-230040         	GAPS Program                  
+100-230045         	In-Home Aide Servs SSBG Funded
+100-230050         	Special Child Adoption Fund   
+100-230055         	Child Subsidized Day Care Adm 
+100-230060         	Communities In Schools        
+100-230065         	LINKS Program                 
+100-230070         	LINKS Program Special Funds   
+100-230075         	Fam & Children Srvs Personnel 
+100-230080         	IVE Waiver Program            
+100-230085         	Work First Employment Services
+100-230090         	Special Initiatives           
+100-230095         	Work First Family Assistance  
+100-230100         	Food Stamp Administration     
+100-230101         	Food&Nutrition- Adm Cont Fund 
+100-230105         	Economic Srvs Support Personnl
+100-230110         	Program Integrity             
+100-230115         	Generic Intake Personnel      
+100-230120         	Share The Warmth Funds        
+100-230125         	State Crisis Intervention Prog
+100-230130         	Fed Crisis Intervention Prog  
+100-230131         	Low Income Home Energy Assist 
+100-230135         	Health Care-Psychological Srvs
+100-230140         	Domestic Violence             
+100-230145         	Family to Family Anchor Site  
+100-230150         	ARRA Subsidized Employment    
+100-230151         	Job Boost                     
+100-230190         	Admin Non-reimb thru 1571     
+100-230210         	Adoption Subsidies            
+100-230215         	Adoption Incentive Program    
+100-230220         	Subsidized Day Care - Children
+100-230230         	Foster Care Expenses          
+100-230240         	Contract-Srvices for the Blind
+100-230250         	Representative Payee Services 
+100-230310         	Adult Day Care HCCBG Funded   
+100-230320         	Community Based HCCBG Contrcts
+100-230330         	In-Home Aide Srvs HCCBG Funded
+100-230340         	Veterans' Services Section    
+100-230410         	Gen Community Based Org Grants
+100-230420         	Comm Based Orgs-Children Srvs 
+100-230510         	Health Care - Medical Services
+100-230520         	Co Financial Assist-Child/Fams
+100-230530         	Generl Co Financial Assistance
+100-230540         	Indigent Burial Services      
+100-230550         	TEAM HOPE                     
+100-230610         	NC Helping Neighbors          
+100-230620         	Federal Emergency Mgmnt Assist
+100-230625         	FEMA - ARRA Funds             
+100-231110         	Special Assistance to Adults  
+100-232110         	Temp Asst Needy Families      
+100-233110         	Medical Assistance            
+100-235110         	Special Assistance to Adults  
+100-235120         	Temp Asst Needy Families      
+100-235130         	Medical Assistance            
+100-240110         	Child Support Enforcement     
+100-250110         	Transportation-Human Serv     
+100-250115         	Medicaid Transportation       
+100-285110         	Veteran Services              
+100-290002         	Coop Ext - Administration     
+100-290110         	Coop Ext - Youth Education    
+100-290210         	Agriculture                   
+100-290211         	USDA Local Foods Promo Grant  
+100-290220         	Family & Consumer Science     
+100-290230         	4-H                           
+100-290240         	Shared-Use Kitchen            
+100-295002         	Coord Services Administration 
+100-295110         	Coord Srv-Adult Services      
+100-295210         	Coord Srv-Family & Children   
+100-295211         	ARRA-Youth Gang Prevention    
+100-295310         	Coord Srv-Juvenile Srv Coord  
+100-295410         	General Services              
+100-295415         	ABC Bottle Tax                
+100-295510         	JCPC Services                 
+100-310002         	Law Enf Administration        
+100-310003         	LE Administration-Un Sub Tax  
+100-310004         	LE Administration-FF DOJ      
+100-310005         	LE Administration - Paytel    
+100-310006         	Overtime -  Dignitary Events  
+100-310007         	Overtime - Tournament Event   
+100-310010         	LE Admin - Computer Services  
+100-310014         	LE Admin-Computer Srvcs-FF DOJ
+100-310020         	LE Admin - Training           
+100-310023         	LE Admin - Training-Un Sub Tax
+100-310024         	LE Admin - Training-FF DOJ    
+100-310025         	LE Admin - Training-FF DOT    
+100-310030         	LE Admn-Records-Pistol Permits
+100-310034         	LE Admin - Records-FF DOJ     
+100-310040         	LE Adm-Conceald Weapon Records
+100-310050         	LE Adm-Explorer Post          
+100-310060         	LE Adm-Gov Crime Commission   
+100-310110         	LP-Civil Process              
+100-310113         	LP-Civil Process-Unauth Sb Tax
+100-310114         	LP-Civil Process-FF DOJ       
+100-310116         	LP-Civil Proc-Cops Univ Hiring
+100-310120         	LP-Civil Proc-Warrant Repostry
+100-310130         	LP-Criminal Process           
+100-310200         	Special Operations Command    
+100-310201         	Sp Operations-Officer Overtime
+100-310203         	Sp Operations Command-UnSubTx 
+100-310204         	Sp Operations Command-FF DOJ  
+100-310210         	SO-Narcotics - Vice           
+100-310213         	SO-Narcotics - Vice-Un Sub Tax
+100-310214         	SO-Narcotics - Vice-FF DOJ    
+100-310220         	SO-Crime Repression Team      
+100-310223         	SO-Crime Repressn Team-UnSbTx 
+100-310224         	SO-Crime Repressn Team-FF DOJ 
+100-310230         	SO-Sheriff Emer Response Team 
+100-310233         	SO-S Emer Response Team-UnSbTx
+100-310234         	SO-S Emer Response Team-FF DOJ
+100-310235         	SO-S Emer Response Team-FF DOT
+100-310240         	SO-Computer Crimes Lab        
+100-310250         	SO-Identification             
+100-310253         	SO-Identification-Unauth Sb Tx
+100-310254         	SO-Identification-FF DOJ      
+100-310260         	SO-Evidence                   
+100-310261         	HIDTA FUNDING - 1             
+100-310262         	HIDTA FUNDING - 2             
+100-310263         	 HIDTA FUNDING - 3            
+100-310264         	 HIDTA FUNDING - 4            
+100-310270         	SO-AFIS                       
+100-310274         	SO-AFIS-Federal Forfeiture DOJ
+100-310276         	SO-AFIS Grant                 
+100-310280         	SO-Traffic Unit               
+100-310281         	SO-Gov Highway Safety-Other   
+100-310282         	SO-NC Anti Human Trafficking  
+100-310283         	SO-Gov Hiway Safety DWI Grant 
+100-310284         	SO-Gov Hiway Safety Bike Grt  
+100-310285         	Citizens Corp Grant           
+100-310286         	Governor's Highway Safety Grt 
+100-310287         	Governors Crime Commsson Grant
+100-310288         	Governors HighwaySafety GrtNo2
+100-310290         	SO-SCAAP Grant                
+100-310293         	Governor Crime Com Grant #1   
+100-310294         	Governor Crime Com Grant #2   
+100-310295         	Governor Crime Com Grant #3   
+100-310296         	Governor Crime Com Grant #4   
+100-310297         	Governor Crime Com Grant #5   
+100-310351         	SO-JAG ARRA Funding           
+100-310352         	SO-Justice Assistnce Grnt-2006
+100-310353         	SO-Justice Assistnce Grnt-2007
+100-310354         	SO-Justice Assistance Grant   
+100-310365         	SO-COPS Grant                 
+100-310374         	SO-Av Tech Prog-Agency-FF DOT 
+100-310376         	SO-Av Tech Prog-General-FF DOT
+100-310378         	SO-Av Tech Prog-Engine-FF DOT 
+100-310410         	Patrol-Dist I Field Operations
+100-310414         	Ptrl-Dist I Field Op-FF DOJ   
+100-310420         	Ptrl-Dist II Field Operations 
+100-310424         	Ptrl-Dist II Field Op-FF DOJ  
+100-310430         	Ptrl-Dist III-Field Operations
+100-310434         	Ptrl-Dist III Field Op-FF DOJ 
+100-310435         	Ptrl-Dist III Field Op-JAG Grt
+100-310490         	Patrol-Pleasant Garden Distrct
+100-310496         	Ptrl-Com Policing-Cops More Gr
+100-310500         	Ptrl-School Resource Officers 
+100-310510         	Patrol - Jamestown            
+100-310520         	Patrol - Stokesdale           
+100-310700         	Detention Services-Greensboro 
+100-310701         	Detentin Svcs-Gsbo Jail Centrl
+100-310703         	DS-Greensboro-Unauthd  Sub Tax
+100-310704         	DS-Greensboro-Fed Forfeit DOJ 
+100-310710         	Detention Services-High Point 
+100-310714         	DS-High Point-Fed Forfeit DOJ 
+100-310720         	DS-Community Re-entry Grant #1
+100-310730         	DS-Prison Farm Operation      
+100-310732         	DS-Prison Farm Administration 
+100-310733         	DS-Prison Farm - Un Sub Tx    
+100-310734         	DS-Prison Farm-Fed Forfeit DOJ
+100-310750         	DS-Bailiffs                   
+100-310760         	DS-Inmate Transportation      
+100-310770         	DS-Commissary                 
+100-310780         	DS-Community Services         
+100-310790         	DS-Inmate Welfare Funds       
+100-310791         	DS-Gang Intelligence Grant    
+100-320002         	Emergency Services Administrtn
+100-320010         	ES Admin-Emer Operation Center
+100-320110         	Emergency Management Admin    
+100-320120         	EM-Homeland Security Program  
+100-320130         	EM-Wmd Preparedness Grant     
+100-320140         	EM-Emergency Operation        
+100-320141         	EM-Emergency Operatin Grt No 2
+100-320210         	Communications Administration 
+100-320211         	Communications-Cnty/City Towrs
+100-320220         	Communicatns-Metro 911 Center 
+100-320310         	Emergency Services Garage     
+100-320410         	Medical-Emergency Med Services
+100-320420         	Medical-HP Regional Hospital  
+100-320425         	Medical - EMS Grants          
+100-320430         	Medical-HRSA EMS Grant        
+100-320510         	Fire Administration           
+100-320520         	Fire&Haz Mat Operations       
+100-320610         	Environmental                 
+100-320611         	Hazardous Materials Grant     
+100-330110         	Inspections                   
+100-340110         	Juvenile Detention Services   
+100-340120         	Juv Detent Srvs-Gang Awareness
+100-340210         	Adult Day Rep-One Step Further
+100-340220         	Community Services            
+100-340230         	Juvenile Structured Day-GCC   
+100-340240         	Juvenile Structured Day-DJJDP 
+100-350110         	Family Justice Center         
+100-350120         	FJC Contributions/Gifts       
+100-370110         	Animal Shelter                
+100-370120         	Spay/Neuter Program           
+100-370125         	SPOT Mobile Clinic            
+100-370130         	Susie's Fund                  
+100-370140         	Have A Heart                  
+100-370210         	Animal Control                
+100-390110         	Regular Pre-Trial Release     
+100-390111         	Supplemntl Pre-Trial Rel - IWF
+100-390112         	Mental Health Court - IWF     
+100-390113         	Pre-Trial CBO Program         
+100-390114         	Drug Court - HP               
+100-390210         	Juvnle-Famly Subst Abuse Court
+100-410002         	Waste Disposal Administration 
+100-410110         	Scrap Tires Disposal          
+100-410120         	White Goods Disposal          
+100-410130         	Recycling and Cleanups        
+100-410140         	Other Disposal                
+100-410150         	Electronic Wastes Mgmt        
+100-420110         	Soil & Water Conservation     
+100-420210         	GC S&WCD Foundation Account   
+100-510110         	Culture                       
+100-510210         	Libraries                     
+100-510510         	Parks and Recreation Admin    
+100-510520         	Triad Park                    
+100-510521         	Bur-Mil Park                  
+100-510522         	Gibson Park                   
+100-510523         	Southwest Park                
+100-510524         	Hagan-Stone Park              
+100-510525         	Guilford Mackintosh Park      
+100-510526         	Northeast Park                
+100-511110         	Culture                       
+100-511210         	Libraries                     
+100-515002         	Parks and Recreation - Admin  
+100-515200         	Bur-Mil Operations            
+100-515201         	Bur-Mil Pool                  
+100-515202         	Bur-Mil Clubhouse             
+100-515203         	Bur-Mil Golf                  
+100-515204         	Bur-Mil Wildlife Ed Center    
+100-515300         	Gibson Operations             
+100-515400         	Guilford Mackintosh Operations
+100-515500         	Hagan-Stone Operations        
+100-515501         	Hagan-Stone Pool              
+100-515502         	Hagan-Stone Clubhouse         
+100-515505         	Hagan-Stone Campground        
+100-515506         	Hagan-Stone Marina            
+100-515600         	Northeast Operations          
+100-515601         	Northeast Pool                
+100-515602         	Northeast Clubhouse           
+100-515607         	Northeast Attractions         
+100-515700         	Southwest Operations          
+100-515706         	Southwest Marina              
+100-515800         	Triad Operations              
+100-515900         	Passive Prks Trls Grds        
+100-650110         	Economic Develop & Assistance 
+100-650120         	Economic Dev&Assist-Pied Pharm
+100-710010         	GCBOE Current Expense Allocatn
+100-710015         	GCBOE Capital Outlay Allocatn 
+100-710020         	GTCC Current Expense Allocatn 
+100-710025         	GTCC Capital Outlay Allocation
+100-810110         	Guilford County Capital Outlay
+100-810210         	GC Board of Ed Capital Outlay 
+100-810310         	GTCC Capital Outlay           
+100-910110         	Debt Service                  
+100-950110         	Non-Departmental              
+200-195002         	Risk Retention Administration 
+200-195110         	Liability Insurance           
+200-195210         	Property and Other Ins        
+200-195310         	Workers Compensation Ins      
+200-197110         	Old Program Runouts           
+200-197120         	Medical - Choice Plus         
+200-197130         	Medical - Choice HMO          
+200-197135         	Medical - Retirees            
+200-197136         	Dental - Retirees             
+200-197140         	Medicare Supplement           
+200-197141         	Medicare Advantage Plan       
+200-197170         	Dental Basic                  
+200-197180         	Dental Enhanced               
+200-200001         	Internal Services Fund Level  

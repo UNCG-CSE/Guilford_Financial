@@ -1,0 +1,6 @@
+Introduction:
+
+For our final project data set we have chosen the Guilford County financial reports. Our goals for this project will be to try and discover any trends within the data regarding the county budget, mainly focusing on anomalies in the data and to try and develop a model for financial projections. In the future we may divide these goals to be on a per department basis.
+
+
+Tasks:
