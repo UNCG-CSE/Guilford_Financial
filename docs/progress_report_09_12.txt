@@ -6,7 +6,11 @@ Introduction:
 
 Tasks:
 
-Create data dictionary
-Create database
-Communicate with advisor for extra data, more information
-begin cleaning the data, extracting useful information from the data
+-Create data dictionary - Greg
+-Create database - Greg
+-Communicate with advisor for extra data, more information - 
+-Begin cleaning the data - Vincent
+-Data Preprocessing - Cody
+-Extracting useful information from the data
+-Find more related works - Evan
+-Models - Rohit
