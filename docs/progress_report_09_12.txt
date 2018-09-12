@@ -11,7 +11,16 @@ Introduction:
   
   
 
+  
+Github Tasks:
+Work on related work: Evan
+Find patterns in the data: Rohit
+Maintain data dictionary: Greg
+Find anomalies in the data: Cody
+Examine how spending trends change over time: Vincent
 
+Can the following section be removed?
+----------------------------------------------------
 Tasks:
 
 -Create data dictionary - Greg
@@ -26,6 +35,6 @@ New Tasks:
 - Finding the patterns in data
 - Finding the relation between the data
 - How the spending trends change with time
-- Finding the anomalies in the data - Greg
+- Finding the anomalies in the data
 - Which department spends the most and where?
- 
+----------------------------------------------------
