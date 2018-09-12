@@ -14,3 +14,11 @@ Tasks:
 -Extracting useful information from the data
 -Find more related works - Evan
 -Models - Rohit
+
+New Tasks:
+- Finding the patterns in data
+- Finding the relation between the data
+- How the spending trends change with time
+- Finding the anomalies in the data.
+- Which department spends the most and where?
+ 
