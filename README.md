@@ -1,8 +1,8 @@
 # Guildford_Financial
 
 Introduction:
-Guilford County Financial Modeling is the idea for our project. We have data for Guilford county approved budgets from 2013-2018 and transactions from 2007-2018. 
-The dataset available is financial data mainly includes adopted/amended budget data and historical transaction 
+Guilford County Financial Modeling is the idea for our project. We have data for Guilford County approved budgets from 2013-2018 and transactions from 2007-2018. 
+The dataset available is financial data mainly including adopted/amended budget data and historical transaction 
 data for the Guilford County. The idea is to help the Financial and Budget Department 
 of Guilford County in maintaining their expected spending and transactions.
 
