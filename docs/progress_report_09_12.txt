@@ -1,4 +1,14 @@
 Introduction:
+Guilford County Financial Modeling is the idea for our project. The dataset available is 
+financial data mainly includes adopted/amended budget data and historical transaction 
+data for the Guilford County. The idea is to help the Financial and Budget Department 
+of Guilford County in maintaining their expected spending and transactions.
+
+In order to achieve these goals efficiently, we have divided the tasks among our team 
+members like maintaining the data dictionary and documentation, finding the relationships 
+in the data, finding the patterns in data in different departments, how the spending 
+trends change with time, detecting anomalies or abnormalities in transactions 
+and/or total actual spending as we move through the year.
 
 	For our final project data set, we have chosen the Guilford County financial reports. 
   We have data for Guilford county approved budgets from 2013-2018 and transactions from 2007-2018. 
@@ -19,22 +29,12 @@ Maintain data dictionary: Greg
 Find anomalies in the data: Cody
 Examine how spending trends change over time: Vincent
 
-Can the following section be removed?
-----------------------------------------------------
-Tasks:
 
--Create data dictionary - Greg
--Communicate with advisor for extra data, more information - 
--Begin cleaning the data - Vincent
--Data Preprocessing - Cody
--Extracting useful information from the data
--Find more related works - Evan
--Models - Rohit
-
-New Tasks:
-- Finding the patterns in data
-- Finding the relation between the data
-- How the spending trends change with time
-- Finding the anomalies in the data
-- Which department spends the most and where?
-----------------------------------------------------
+Tasks Outlined:
+- Maintaining Data Dictionary and documentation. --> Greg
+- Finding the patterns in data. --> Rohit
+- Which department spends the most and where? --> Rohit
+- Finding the relationships in the data.  --> Evan
+- Find more related works. --> Evan
+- How the spending trends change with time. --> Vincent
+- Finding the anomalies in the data.  --> Cody
