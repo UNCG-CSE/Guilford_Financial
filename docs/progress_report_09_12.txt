@@ -3,8 +3,11 @@ Introduction:
 	For our final project data set, we have chosen the Guilford County financial reports. 
   We have data for Guilford county approved budgets from 2013-2018 and transactions from 2007-2018. 
   Our goals for this project will be to try to discover any trends within the data regarding the county budget, 
-  mainly focusing on anomalies in the data and to try to develop a model for financial projections. In the future we may divide these goals to be on a per department basis.
-	To accomplish these goals we plan to build a data dictionary and a database for compiling all of our data.
+  mainly focusing on anomalies in the data and to try to develop a model for financial projections. In the future 
+  we may divide these goals to be on a per department basis. To accomplish these goals we plan to build a data 
+  dictionary and a database for compiling all of our data. 
+  	Using the models we derive from this data, the county should be able to more easily plan their budgets for upcoming years.
+	In addition, they should be able to use our python modules to find anomalies in future data sets.
   
   
 
