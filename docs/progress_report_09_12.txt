@@ -1,24 +1,19 @@
 Introduction:
+Guilford County Financial Modeling is the idea for our project. The dataset available is financial data mainly includes adopted/amended budget data and historical transaction data for the Guilford County. The idea is to help the Financial and Budget Department of Guilford County in maintaining their expected spending and transactions.
 
-	For our final project data set, we have chosen the Guilford County financial reports. Our goals for this project will be to try to discover any trends within the data regarding the county budget, mainly focusing on anomalies in the data and to try to develop a model for financial projections. In the future we may divide these goals to be on a per department basis.
-	To accomplish these goals we plan to build a data dictionary and a database for compiling all of our data.
+In order to achieve these goals efficiently, we have divided the tasks among our team members like maintaining the data dictionary and documentation, finding the relation between data, finding the patterns in data in different departments, how the spending trends change with time?, detecting anomalies or abnormalities in transactions and/or total actual spending as we move through the year.
 
 
-Tasks:
+Tasks Outlined:
+- Mainting Data Dictionary and documentation. --> Greg
+- Finding the patterns in data. --> Rohit
+- Which department spends the most and where? --> Rohit
+- Finding the relation between the data.  --> Evan
+- Find more related works. --> Evan
+- How the spending trends change with time. --> Vincent
+- Finding the anomalies in the data.  --> Cody
 
--Create data dictionary - Greg
--Create database - Greg
--Communicate with advisor for extra data, more information - 
--Begin cleaning the data - Vincent
--Data Preprocessing - Cody
--Extracting useful information from the data
--Find more related works - Evan
--Models - Rohit
-
-New Tasks:
-- Finding the patterns in data
-- Finding the relation between the data
-- How the spending trends change with time
-- Finding the anomalies in the data.
-- Which department spends the most and where?
  
+
+        
+
