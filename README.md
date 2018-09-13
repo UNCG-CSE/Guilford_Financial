@@ -20,20 +20,3 @@ members like maintaining the data dictionary and documentation, finding the rela
 in the data, finding the patterns in data in different departments, how the spending
 trends change with time, detecting anomalies or abnormalities in transactions
 and/or total actual spending as we move through the year.
-
-### Github Tasks:
-**Work on related work**: Evan
-**Find patterns in the data**: Rohit
-**Maintain data dictionary**: Greg
-**Find anomalies in the data**: Cody
-**Examine how spending trends change over time**: Vincent
-
-
-### Tasks Outlined:
-- **Maintaining Data Dictionary and documentation** --> Greg
-- **Finding the patterns in data** --> Rohit
-- **Which department spends the most and where** --> Rohit
-- **Finding the relationships in the data**  --> Evan
-- **Find more related works** --> Evan
-- **How the spending trends change with time** --> Vincent
-- **Finding the anomalies in the data** --> Cody
