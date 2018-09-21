@@ -7,7 +7,7 @@ data for the Guilford County. The idea is to help the Financial and Budget Depar
 of Guilford County in maintaining their expected spending and transactions.
 
 ## Goals
-to be able to discover anomalies in the given financial data and be able to discover new
+To be able to discover anomalies in the given financial data and be able to discover new
 anomalies as new data is added. Eventually, we would also like to be able to
 make financial forecasts and predictions based on the given data. We would like to be able to make predictions about
 upcoming transactions. If time allows, we would also like to be able to implement a method for predicting what transactions are likely to
