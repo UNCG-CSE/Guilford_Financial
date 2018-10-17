@@ -20,4 +20,8 @@ and/or total actual spending as we move through the year.
 
 Github Tasks:
 
-
+Work on Related works: Cody
+Data Cleaning: Rohit
+Analyze Expense Data: Evan
+Analyze Revenue Data: Greg
+Analyze Transaction Data: Vincent
