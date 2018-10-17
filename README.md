@@ -1,4 +1,4 @@
-# Guildford_Financial
+# Guilford_Financial
 
 ## Introduction
 Guilford County Financial Modeling is the idea for our project. We have data for Guilford County approved budgets from 2013-2018 and transactions from 2007-2018.
@@ -6,11 +6,15 @@ The dataset available is financial data mainly including adopted/amended budget 
 data for the Guilford County. The idea is to help the Financial and Budget Department
 of Guilford County in maintaining their expected spending and transactions.
 
-Gregory Purvine
-Evan Crabtree
-Rohit Gulia
-Cody Cothern 
-Vincent Xiao
+Gregory Purvine (gnpurvin) https://github.com/gnpurvin
+
+Evan Crabtree (Crabtr) https://github.com/Crabtr
+
+Rohit Gulia (rohit-gulia) https://github.com/rohit-gulia
+
+Cody Cothern (Mask487) https://github.com/Mask487
+
+Vincent Xiao(MrVinegar) https://github.com/MrVinegar
 
 ## Goals
 To be able to discover anomalies in the given financial data and be able to discover new
@@ -42,3 +46,10 @@ decreased over the observed period.
 
 ## Anomaly Detection
 We have found three methods of finding anomalies in our data: Recurrent Neural Networks, Autoregressive Models, and Sigma 3. While we will mostly likely use Sigma 3 for it's simplicity, we plan on experimenting with the other two methods if we have time to try and find more accurate ways to detect anomalies. 
+
+## Tasks
+Greg -> Analyze Revenue Data
+Evan -> Analyze Expense Data
+Rohit -> Data Cleaning
+Vincent -> Analyze Transaction Data
+Cody -> Anomaly Detection Research
