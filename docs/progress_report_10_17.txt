@@ -1,0 +1,23 @@
+Introduction:
+Guilford County Financial Modeling is the idea for our project. We have data for Guilford County approved budgets from 2013-2018 and transactions from 2007-2018.
+The dataset available is financial data mainly including adopted/amended budget data and historical transaction
+data for the Guilford County. The idea is to help the Financial and Budget Department
+of Guilford County in maintaining their expected spending and transactions.
+
+Our goals are to be able to discover anomalies in the given financial data and be able to discover new
+anomalies as new data is added. Eventually, we would also like to be able to
+make financial forecasts and predictions based on the given data. We would like to be able to make predictions about
+upcoming transactions. If time allows, we would also like to be able to implement a method for predicting what transactions are likely to
+happen in the future. In the interest of keeping our project to a reasonable scope, we are focusing on anomaly detection. Our goal
+at this point is to develop a method for discovering anomalies in the past financial data and for catching new anomalies as new data comes in.
+
+In order to achieve these goals efficiently, we have divided the tasks among our team
+members like maintaining the data dictionary and documentation, finding the relationships
+in the data, finding the patterns in data in different departments, how the spending
+trends change with time, detecting anomalies or abnormalities in transactions
+and/or total actual spending as we move through the year.
+
+
+Github Tasks:
+
+
