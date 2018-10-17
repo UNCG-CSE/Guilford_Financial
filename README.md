@@ -21,13 +21,13 @@ in the data, finding the patterns in data in different departments, how the spen
 trends change with time, detecting anomalies or abnormalities in transactions
 and/or total actual spending as we move through the year.
 
-##Data Cleaning
+## Data Cleaning
 All missing amount values in the budget data have been filled with zeroes. The ExpSort column was dropped,
  as that column is not useful for our purposes at this time. All entries where the fund number was greater than
  or equal to 400 were dropped, at the advice of our mentor. After making these changes to the data (while keeping 
 a separate copy of the original data), we split the data into two sets: Revenue and Expense Data. 
  
-##Data Analysis
+## Data Analysis
 
 
 
