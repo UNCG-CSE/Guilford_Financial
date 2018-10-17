@@ -32,4 +32,5 @@ a separate copy of the original data), we split the data into two sets: Revenue 
 
 
 
-## Anomaly Detection
+##Anomaly Detection
+We have found three methods of finding anomalies in our data: Recurrent Neural Networks, Autoregressive Models, and Sigma 3. While we will mostly likely use Sigma 3 for it's simplicity, we plan on experimenting with the other two methods if we have time to try and find more accurate ways to detect anomalies. 
