@@ -6,6 +6,12 @@ The dataset available is financial data mainly including adopted/amended budget 
 data for the Guilford County. The idea is to help the Financial and Budget Department
 of Guilford County in maintaining their expected spending and transactions.
 
+Gregory Purvine
+Evan Crabtree
+Rohit Gulia
+Cody Cothern 
+Vincent Xiao
+
 ## Goals
 To be able to discover anomalies in the given financial data and be able to discover new
 anomalies as new data is added. Eventually, we would also like to be able to
