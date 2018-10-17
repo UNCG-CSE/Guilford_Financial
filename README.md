@@ -28,8 +28,10 @@ All missing amount values in the budget data have been filled with zeroes. The E
 a separate copy of the original data), we split the data into two sets: Revenue and Expense Data. 
  
 ## Data Analysis
-
-
+We have begun looking at high level trends in the budget data for both the expense and revenue data sets. 
+We have also charted the top 6 revenue and expense sources. We've observed that while the sums of all 
+expenses and revenues have both generally increased, the number of expense and revenue sources have both 
+decreased over the observed period. 
 
 
 ## Anomaly Detection
