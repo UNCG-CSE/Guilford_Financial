@@ -49,7 +49,11 @@ We have found three methods of finding anomalies in our data: Recurrent Neural N
 
 ## Tasks
 Greg -> Analyze Revenue Data
+
 Evan -> Analyze Expense Data
+
 Rohit -> Data Cleaning
+
 Vincent -> Analyze Transaction Data
+
 Cody -> Anomaly Detection Research
