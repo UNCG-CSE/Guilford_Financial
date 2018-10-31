@@ -1,0 +1,8 @@
+Task: Transaction Regression - Greg
+      Question: Can we predict/estimate a transaction amount?
+      Method: Plot transaction data to see if there seems to be any trend.
+      Outcomes: Single variable linear regression is not enough. 
+                Plotting by account number or date shows no relation.
+                Multiple linear regression by account number and date shows no relation.
+      Implications: Need to either include more variables or perform regression on an entity by entity basis.
+                Separate transaction data by revenue/expense?
