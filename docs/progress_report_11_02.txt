@@ -4,5 +4,6 @@ Task: Transaction Regression - Greg
       Outcomes: Single variable linear regression is not enough. 
                 Plotting by account number or date shows no relation.
                 Multiple linear regression by account number and date shows no relation.
-      Implications: Need to either include more variables or perform regression on an entity by entity basis.
-                Separate transaction data by revenue/expense?
+      Implications: Regression likely won't be effective for dealing with the transaction data. 
+      
+      
