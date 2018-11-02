@@ -1,0 +1,32 @@
+Task: Transaction Regression - Greg
+      Question: Can we predict/estimate a transaction amount?
+      Method: Plot transaction data to see if there seems to be any trend.
+      Outcomes: Single variable linear regression is not enough. 
+                Plotting by account number or date shows no relation.
+                Multiple linear regression by account number and date shows no relation.
+      Implications: Regression likely won't be effective for dealing with the transaction data. 
+      
+Task: Budget Anomaly Detection - Cody
+      Question: Can we find budgets that are above/below the expected range of budget values?
+      Method: Sig3 analysis on budget data, divided into revenue and expense data sets.
+              Any value more than 3 standard deviations above or below the mean is considered an anomaly.
+      Outcomes: Plotted anomalies observed per department over the 5 year period. 
+      Implications: We have the ability to find anomalous budget amounts. 
+      
+Task: Probability Distribution - Rohit
+      Question: 
+      Method: 
+      Outcomes: 
+      Implications: 
+      
+Task: Spending/PDF By Entity - Evan
+      Question: 
+      Method: 
+      Outcomes: 
+      Implications: 
+      
+Task: Transaction Anomaly Detection - Vincent
+      Question: Can we detect anomalous transactions?
+      Method: Sig3 analysis on transaction data.
+      Outcomes: IN PROGRESS
+      Implications: IN PROGRESS

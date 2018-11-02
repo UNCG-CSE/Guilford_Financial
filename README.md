@@ -31,6 +31,17 @@ in the data, finding the patterns in data in different departments, how the spen
 trends change with time, detecting anomalies or abnormalities in transactions
 and/or total actual spending as we move through the year.
 
+## Stage 2 Tasks
+Greg -> Analyze Revenue Data
+
+Evan -> Analyze Expense Data
+
+Rohit -> Data Cleaning
+
+Vincent -> Analyze Transaction Data
+
+Cody -> Anomaly Detection Research
+
 ## Data Cleaning
 All missing amount values in the budget data have been filled with zeroes. The ExpSort column was dropped,
  as that column is not useful for our purposes at this time. All entries where the fund number was greater than
@@ -44,16 +55,41 @@ expenses and revenues have both generally increased, the number of expense and r
 decreased over the observed period. 
 
 
-## Anomaly Detection
+## Anomaly Detection Research
 We have found three methods of finding anomalies in our data: Recurrent Neural Networks, Autoregressive Models, and Sigma 3. While we will mostly likely use Sigma 3 for it's simplicity, we plan on experimenting with the other two methods if we have time to try and find more accurate ways to detect anomalies. 
 
-## Tasks
-Greg -> Analyze Revenue Data
 
-Evan -> Analyze Expense Data
+## Stage 3 Tasks
+Greg -> Transaction Regression Modelling
 
-Rohit -> Data Cleaning
+Evan -> Spending & Probability Distribution By Entity
 
-Vincent -> Analyze Transaction Data
+Rohit -> Probability Distribution
 
-Cody -> Anomaly Detection Research
+Cody -> Budget Anomaly Detection
+
+Vincent -> Transaction Anomaly Detection
+
+## Transaction Regression Modelling
+Goal was to see if we could come up with a model for predicting future transaction, as well as using the model
+to assist with anomaly detection. Transaction data was plotted with various combinations of variables. Regression was attempted 
+with single variable and multivariable models. Neither yielded any usable results. Either regression will not be a useful 
+technique for our data set or regression needs to be done on a finer scale, perhaps performing it for each individual entity, 
+as opposed to performing on the entire data set. 
+
+## Budget Anomaly Detection
+Goal was to find a way to detect anomalies in the budget data set. Anomaly detection was performed using 
+Sig3 algorithm. Any value 3 standard deviations or more above or below the mean is considered an anomaly. 
+We were able to calculate the number of anomalies within each department over the 5 year period and plot them 
+to make it easier to visualize.
+
+## Transaction Anomaly Detection
+Similar to with the budget data, we want to be able to identify anomalous transactions. We will use the same methods 
+and algorithm to try to find any transactions that seem out of the norm. This task is currently in progress, as we 
+are still working on a way to make the data more presentable. 
+
+## Probability Distribution
+//description here
+
+## Spending & Probability Distribution Per Entity
+//description here
