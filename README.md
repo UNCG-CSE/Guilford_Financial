@@ -66,9 +66,9 @@ Evan -> Spending & Probability Distribution By Entity
 
 Rohit -> Probability Distribution
 
-Cody -> Anomaly Detection
+Cody -> Budget Anomaly Detection
 
-Vincent ->
+Vincent -> Transaction Anomaly Detection
 
 ## Transaction Regression Modelling
 Goal was to see if we could come up with a model for predicting future transaction, as well as using the model
@@ -77,11 +77,16 @@ with single variable and multivariable models. Neither yielded any usable result
 technique for our data set or regression needs to be done on a finer scale, perhaps performing it for each individual entity, 
 as opposed to performing on the entire data set. 
 
-## Anomaly Detection
+## Budget Anomaly Detection
 Goal was to find a way to detect anomalies in the budget data set. Anomaly detection was performed using 
 Sig3 algorithm. Any value 3 standard deviations or more above or below the mean is considered an anomaly. 
 We were able to calculate the number of anomalies within each department over the 5 year period and plot them 
 to make it easier to visualize.
+
+## Transaction Anomaly Detection
+Similar to with the budget data, we want to be able to identify anomalous transactions. We will use the same methods 
+and algorithm to try to find any transactions that seem out of the norm. This task is currently in progress, as we 
+are still working on a way to make the data more presentable. 
 
 ## Probability Distribution
 //description here

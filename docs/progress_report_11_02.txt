@@ -6,7 +6,7 @@ Task: Transaction Regression - Greg
                 Multiple linear regression by account number and date shows no relation.
       Implications: Regression likely won't be effective for dealing with the transaction data. 
       
-Task: Anomaly Detection - Cody
+Task: Budget Anomaly Detection - Cody
       Question: Can we find budgets that are above/below the expected range of budget values?
       Method: Sig3 analysis on budget data, divided into revenue and expense data sets.
               Any value more than 3 standard deviations above or below the mean is considered an anomaly.
@@ -24,3 +24,9 @@ Task: Spending/PDF By Entity - Evan
       Method: 
       Outcomes: 
       Implications: 
+      
+Task: Transaction Anomaly Detection - Vincent
+      Question: Can we detect anomalous transactions?
+      Method: Sig3 analysis on transaction data.
+      Outcomes: IN PROGRESS
+      Implications: IN PROGRESS
