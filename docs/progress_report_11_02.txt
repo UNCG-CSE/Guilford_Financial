@@ -20,10 +20,17 @@ Task: Probability Distribution - Rohit
       Implications:
 
 Task: Spending/PDF By Entity - Evan
-      Question:
-      Method:
-      Outcomes:
-      Implications:
+      Question: Can we break down the transactions by year, department, sub-department, and further
+                can we break them down by month? Additionally, are entity pairs unique to departments?
+      Method: Build datetime objects using the transaction's date string, build Pandas dataframes
+              using the specific criteria and operate on them (sum, mean, etc.), and use Matplotlib
+              to visualize each sub-department's spending by month.
+      Outcomes: Entity pairs are indeed unique to departments and we do have the ability to break
+                transactions down into the mentioned categories.
+      Implications: Being able to immediately determine ownership of a given transaction via the entity
+                    pair will make further usage of them exceptionally easier. Similarly being able to
+                    break down all transactions into tightly defined groups (sub-department, date, etc.)
+                    will make our machine-learning efforts more likely to be achieved.
 
 Task: Transaction Anomaly Detection - Shiyang
       Question: Can we detect anomalous transactions?
