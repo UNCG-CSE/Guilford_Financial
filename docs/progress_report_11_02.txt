@@ -1,32 +1,39 @@
 Task: Transaction Regression - Greg
       Question: Can we predict/estimate a transaction amount?
       Method: Plot transaction data to see if there seems to be any trend.
-      Outcomes: Single variable linear regression is not enough. 
+      Outcomes: Single variable linear regression is not enough.
                 Plotting by account number or date shows no relation.
                 Multiple linear regression by account number and date shows no relation.
-      Implications: Regression likely won't be effective for dealing with the transaction data. 
-      
+      Implications: Regression likely won't be effective for dealing with the transaction data.
+
 Task: Budget Anomaly Detection - Cody
       Question: Can we find budgets that are above/below the expected range of budget values?
       Method: Sig3 analysis on budget data, divided into revenue and expense data sets.
               Any value more than 3 standard deviations above or below the mean is considered an anomaly.
-      Outcomes: Plotted anomalies observed per department over the 5 year period. 
-      Implications: We have the ability to find anomalous budget amounts. 
-      
+      Outcomes: Plotted anomalies observed per department over the 5 year period.
+      Implications: We have the ability to find anomalous budget amounts.
+
 Task: Probability Distribution - Rohit
-      Question: 
-      Method: 
-      Outcomes: 
-      Implications: 
-      
+      Question:
+      Method:
+      Outcomes:
+      Implications:
+
 Task: Spending/PDF By Entity - Evan
-      Question: 
-      Method: 
-      Outcomes: 
-      Implications: 
-      
-Task: Transaction Anomaly Detection - Vincent
+      Question: Can we break down the transactions by year, department, sub-department, and further
+                can we break them down by month? Additionally, are entity pairs unique to departments?
+      Method: Build datetime objects using the transaction's date string, build Pandas dataframes
+              using the specific criteria and operate on them (sum, mean, etc.), and use Matplotlib
+              to visualize each sub-department's spending by month.
+      Outcomes: Entity pairs are indeed unique to departments and we do have the ability to break
+                transactions down into the mentioned categories.
+      Implications: Being able to immediately determine ownership of a given transaction via the entity
+                    pair will make further usage of them exceptionally easier. Similarly being able to
+                    break down all transactions into tightly defined groups (sub-department, date, etc.)
+                    will make our machine-learning efforts more likely to be achieved.
+
+Task: Transaction Anomaly Detection - Shiyang
       Question: Can we detect anomalous transactions?
-      Method: Sig3 analysis on transaction data.
-      Outcomes: IN PROGRESS
-      Implications: IN PROGRESS
+      Method: IQR method on transaction data.
+      Outcomes: Arranged data both on Entity and Account number, turned out to be something similar but Probability is way more than 100.
+      Implications: Need to further investigate on how we should detect the anomalies in transaction data.
