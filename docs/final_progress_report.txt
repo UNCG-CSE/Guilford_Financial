@@ -1,0 +1,1 @@
+Anomaly Detection - As far as we can tell, there is not enough data to be able to predict future budgets in a useful way that allows for anomaly detection. Because prices fluctuate over time, without the price data for the budget, it would be difficult to accurately predict anything.
