@@ -88,12 +88,6 @@ Similar to with the budget data, we want to be able to identify anomalous transa
 and algorithm to try to find any transactions that seem out of the norm. This task is currently in progress, as we 
 are still working on a way to make the data more presentable. 
 
-## Probability Distribution
-//description here
-
-## Spending & Probability Distribution Per Entity
-//description here
-
 ## Budget Forecasting using Time series for average spending in a month 
 Time Series (TS) is a collection of data points collected at constant time intervals. These are analyzed to determine the long term trend so as to forecast the future or perform some other form of analysis.
 But what makes a TS different from say a regular regression problem? There are 2 things: 
