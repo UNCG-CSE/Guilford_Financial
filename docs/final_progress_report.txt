@@ -5,7 +5,7 @@ future budgets in a useful way that allows for anomaly detection.
 Because prices fluctuate over time, without the price data for the budget, 
 it would be difficult to accurately predict anything.
 
-Budget Forecasting using Time series for average spending in a month - 
+Budget Forecasting using Time series for average spending in a month (Machine Learning) - 
 
 Time Series (TS) is a collection of data points collected at constant time intervals. 
 These are analyzed to determine the long term trend so as to forecast 
